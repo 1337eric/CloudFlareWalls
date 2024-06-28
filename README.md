@@ -1,4 +1,4 @@
-A few walls that block common attacks that people use while trying to attack cloudflare protected sites.
+A few walls written by me that block common attacks that people use while trying to attack cloudflare protected sites.
 
 The allow rules allow connections by useragent to allow your site to be picked up by google and other various types of crawlers so your site will be properly displated on google / other search engines
 
